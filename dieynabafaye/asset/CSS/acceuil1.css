@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: url('../IMG/bgimage.jpg');
+    background-size: 100%;
+}
+.header{
+    /* width: 100%;
+    height: 90px; */
+    background-color: #05043C;
+}
+#logo{
+    width: 5%;
+    height: 90px;
+    margin-left: 10px;
+    float: left;
+}
+#logo img{
+    width: 100%;
+    height: 100%;
+}
+#preview img{
+    height: 195px;
+    width: 195px;
+    border-radius: 100px;
+}
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 2px solid #05043C;
+}
+
